@@ -6,7 +6,7 @@ Repository: `Faka-iAction/react-public` (FAKA iAction platform, React client com
 
 ## Status
 
-Scaffold only. Nothing is implemented yet.
+Not started. It is not part of the first release: the web experience is served by [api-symfony-public](https://github.com/Faka-iAction/api-symfony-public) and the mobile app is [flutter-public](https://github.com/Faka-iAction/flutter-public).
 
 ## Visibility
 
